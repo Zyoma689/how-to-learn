@@ -23,7 +23,7 @@
   •
   <a href="https://iv-a.github.io/how-to-learn/" title="Открыть GitHubPages">GitHubPages</a>
 </h3>
-<br>
+
 <h1 id="about">О проекте</h1>
 <table>
   <tbody>
