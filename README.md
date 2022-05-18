@@ -19,9 +19,9 @@
 </h4>
 
 <h3 align="center">
-  <a href=".." title="Link">Demo</a> 
+  <a href=".." title="Link" title="Открыть Демо">Demo</a> 
   •
-  <a href="https://iv-a.github.io/how-to-learn/">GitHubPages</a>
+  <a href="https://iv-a.github.io/how-to-learn/" title="Открыть GitHubPages">GitHubPages</a>
 </h3>
 <br>
 <h1 id="about">О проекте</h1>
