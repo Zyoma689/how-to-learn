@@ -75,7 +75,7 @@ git clone https://github.com/iv-a/how-to-learn.git
 </pre>
   </li>
     <li>
-      В рабочей директории должна появиться папка проекта <code>movies-explorer-frontend</code>
+      В рабочей директории должна появиться папка проекта <code>how-to-learn</code>
     </li>
   </ul>
 </li>
